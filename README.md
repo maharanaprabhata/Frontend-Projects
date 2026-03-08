@@ -4,8 +4,13 @@ Frontend development projects demonstrating responsive UI design, modern web tec
 Content
 --------
 HTML
+
 CSS
+
 JavaScript
+
 UI components
+
 Angular
-React
+
+ReactJS
